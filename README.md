@@ -2,7 +2,7 @@
 - 👀 I’m interested in movies and games
 - 🌱 I’m currently learning CS at U of T Mississauga
 - 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me ADREIAN#9793
+- 📫 How to reach me ADREIAN#9793 on discord
 
 <!---
 AdrianAbellaAcosta/AdrianAbellaAcosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
